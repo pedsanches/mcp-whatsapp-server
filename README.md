@@ -104,11 +104,6 @@ Este projeto está licenciado sob [MIT License](LICENSE).
 
 ## Imagens e Demonstração
 
-As imagens de demonstração do projeto estão armazenadas na pasta `docs/images/`. Você pode adicionar suas próprias capturas de tela seguindo estas etapas:
-
-1. Adicione suas imagens na pasta `docs/images/`
-2. Referencie-as no README usando a sintaxe markdown:
-
 ### Exemplos de uso
 
 ![Claude enviando mensagem](docs/images/example1.png)
