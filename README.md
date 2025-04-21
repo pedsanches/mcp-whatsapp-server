@@ -109,10 +109,6 @@ As imagens de demonstração do projeto estão armazenadas na pasta `docs/images
 1. Adicione suas imagens na pasta `docs/images/`
 2. Referencie-as no README usando a sintaxe markdown:
 
-```markdown
-![Descrição da imagem](docs/images/nome-da-imagem.png)
-```
-
 ### Exemplos de uso
 
 ![Claude enviando mensagem](docs/images/example1.png)
