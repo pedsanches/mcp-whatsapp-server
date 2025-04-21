@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "send_message_waha": {
+            "command": "python",
+            "args": [
+                "${WORKSPACE_DIR}\\mcp_server\\python-mcp-server\\server.py"
+            ],
+            "env": {
+                "PYTHONPATH": "${WORKSPACE_DIR}"
+            }
+        }
+    }
+}
