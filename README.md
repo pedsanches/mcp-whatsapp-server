@@ -73,7 +73,6 @@ Este servidor permite que assistentes IA compatíveis com MCP (como Claude) inte
 
 - `verificar_conexao_whatsapp()` - Verifica o status atual da conexão
 - `enviar_mensagem_whatsapp(numero, mensagem)` - Envia mensagem por número
-- `enviar_mensagem_por_nome(nome, mensagem)` - Envia mensagem para contato cadastrado
 
 ## Exemplos
 
@@ -98,7 +97,3 @@ print(f"Resultado: {resultado['mensagem']}")
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
-## Licença
-
-Este projeto está licenciado sob [MIT License](LICENSE). 
