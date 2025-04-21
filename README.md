@@ -97,3 +97,26 @@ print(f"Resultado: {resultado['mensagem']}")
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+
+## Licença
+
+Este projeto está licenciado sob [MIT License](LICENSE).
+
+## Imagens e Demonstração
+
+As imagens de demonstração do projeto estão armazenadas na pasta `docs/images/`. Você pode adicionar suas próprias capturas de tela seguindo estas etapas:
+
+1. Adicione suas imagens na pasta `docs/images/`
+2. Referencie-as no README usando a sintaxe markdown:
+
+```markdown
+![Descrição da imagem](docs/images/nome-da-imagem.png)
+```
+
+### Exemplos de uso
+
+![Tela de configuração](docs/images/configuracao.png)
+
+![Enviando mensagem](docs/images/envio-mensagem.png)
+
+*Nota: Substitua estas referências por suas próprias imagens depois de adicioná-las.*
