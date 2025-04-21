@@ -115,8 +115,8 @@ As imagens de demonstração do projeto estão armazenadas na pasta `docs/images
 
 ### Exemplos de uso
 
-![Tela de configuração](docs/images/configuracao.png)
+![Claude enviando mensagem](docs/images/example1.png)
 
-![Enviando mensagem](docs/images/envio-mensagem.png)
+![Mensagem enviada](docs/images/example2.png)
 
 *Nota: Substitua estas referências por suas próprias imagens depois de adicioná-las.*
