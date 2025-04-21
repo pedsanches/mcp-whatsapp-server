@@ -118,5 +118,3 @@ As imagens de demonstração do projeto estão armazenadas na pasta `docs/images
 ![Claude enviando mensagem](docs/images/example1.png)
 
 ![Mensagem enviada](docs/images/example2.png)
-
-*Nota: Substitua estas referências por suas próprias imagens depois de adicioná-las.*
